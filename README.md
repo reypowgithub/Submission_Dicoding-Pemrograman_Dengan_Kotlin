@@ -1,7 +1,7 @@
 # Proyek Submission Dicoding - Pemrograman Dengan Kotlin
 by Reynhard Powiwi
 
-**📝 Aturan mengerjakan submission 📝**<br>
+**📝 Aturan mengerjakan submission**<br>
 Agar tugas submission dapat diperiksa dan diterima dengan baik, sebaiknya hindari beberapa hal berikut:
 
 - Mengubah kode yang berada di dalam fungsi main()
@@ -9,7 +9,7 @@ Agar tugas submission dapat diperiksa dan diterima dengan baik, sebaiknya hindar
 - Membuat fungsi baru yang bukan merupakan tugas latihan
 - Mengubah struktur project (menghapus, mengubah, atau memindahkan package)
 
-**Gambaran Proyek💻**<br>
+**💻 Gambaran Proyek**<br>
 Di dalam proyek, terdapat beberapa latihan dengan detail seperti di bawah ini:
 
 - Latihan 1 - Fundamental
