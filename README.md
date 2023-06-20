@@ -1,5 +1,5 @@
 # Proyek Submission Dicoding - Pemrograman Dengan Kotlin
-by Reynhard Powiwi
+dibuat oleh Reynhard Powiwi
 
 **📝 Aturan mengerjakan submission**<br>
 Agar tugas submission dapat diperiksa dan diterima dengan baik, sebaiknya hindari beberapa hal berikut:
